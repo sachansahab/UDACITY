@@ -1,3 +1,5 @@
+##MY BLog
+https://medium.com/@devanshsachan007/write-a-data-science-blog-post-3f77f3edf858
 # Udacity-Data-Science-Project-1-Write-a-Data-Science-Blog-Post
 ## 1. Libraries
 The libraries that I used were
